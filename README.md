@@ -140,8 +140,8 @@ REG NO: 212222100042
 
 ## 13. Advantages of Basic Prompting
 
+<img src="https://github.com/user-attachments/assets/23a14511-f482-4ef1-a1e1-176fc7a5d062" alt="image" width="600"/>
 
-![image](https://github.com/user-attachments/assets/23a14511-f482-4ef1-a1e1-176fc7a5d062)
 
 
 <p1>Basic prompting offers a wide array of advantages: it leads to higher quality outputs, reduces hallucinations or fabrication of facts, enhances the specificity and depth of the responses, and greatly improves user satisfaction. Structured prompts also help the AI model understand user expectations more clearly, resulting in responses that are far more aligned with the original intent.</p1><br>
@@ -154,7 +154,9 @@ REG NO: 212222100042
 
 ## 16. Best Practices for Prompting ChatGPT
 
-![image](https://github.com/user-attachments/assets/e73fc92c-e745-4efd-bc3d-6f51c03e9366)
+
+<img src="https://github.com/user-attachments/assets/e73fc92c-e745-4efd-bc3d-6f51c03e9366" alt="image" width="600"/>
+
 
 <p1>To optimize interactions with ChatGPT, users should follow several best practices: be specific and detailed; set constraints like word count, tone, and audience; clearly state the desired format; and, where possible, provide examples. These practices empower the AI to deliver better-targeted, more actionable, and higher-quality responses, greatly improving the overall user experience.</p1><br>
 
